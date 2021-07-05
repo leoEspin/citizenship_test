@@ -33,7 +33,8 @@ What is one right or freedom from the First Amendment?*
 * If you are 65 years old or older and have been a legal permanent resident of the United States for 20 or more years, you
 may study just the questions that have been marked with an asterisk.
 -1-
-www.uscis.gov8.		
+www.uscis.gov
+8.		
 		
 		
 		 What did the Declaration of Independence do?
@@ -97,7 +98,8 @@ Who makes federal laws?
 * If you are 65 years old or older and have been a legal permanent resident of the United States for 20 or more years, you
 may study just the questions that have been marked with an asterisk.
 -2-
-www.uscis.gov19.		 We elect a U.S. Senator for how many years?
+www.uscis.gov
+19.		 We elect a U.S. Senator for how many years?
 		 ▪ six (6)
 20.		 Who is one of your state’s U.S. Senators now?*
 		 ▪  Answers will vary. [District of Columbia residents and residents of U.S. territories should answer that D.C.
@@ -143,7 +145,8 @@ Why do some states have more Representatives than other states?
 * If you are 65 years old or older and have been a legal permanent resident of the United States for 20 or more years, you
 may study just the questions that have been marked with an asterisk.
 -3-
-www.uscis.gov36.		
+www.uscis.gov
+36.		
 		
 		
 		
@@ -206,7 +209,8 @@ government?
 * If you are 65 years old or older and have been a legal permanent resident of the United States for 20 or more years, you
 may study just the questions that have been marked with an asterisk.
 -4-
-www.uscis.gov43.		 Who is the Governor of your state now?
+www.uscis.gov
+43.		 Who is the Governor of your state now?
 		 ▪  Answers will vary. [District of Columbia residents should answer that D.C. does not have a Governor.]
 44.		 What is the capital of your state?*
 		 ▪  Answers will vary. [District of Columbia residents should answer that D.C. is not a state and does not have a
@@ -268,7 +272,8 @@ What is one promise you make when you become a United States citizen?
 * If you are 65 years old or older and have been a legal permanent resident of the United States for 20 or more years, you
 may study just the questions that have been marked with an asterisk.
 -5-
-www.uscis.gov54.		 How old do citizens have to be to vote for President?*
+www.uscis.gov
+54.		 How old do citizens have to be to vote for President?*
 		 ▪ eighteen (18) and older
 55.		
 		
@@ -330,7 +335,8 @@ Why did the colonists fight the British?
 * If you are 65 years old or older and have been a legal permanent resident of the United States for 20 or more years, you
 may study just the questions that have been marked with an asterisk.
 -6-
-www.uscis.gov62.		 Who wrote the Declaration of Independence?
+www.uscis.gov
+62.		 Who wrote the Declaration of Independence?
 		 ▪ (Thomas) Jefferson
 63.		 When was the Declaration of Independence adopted?
 		 ▪ July 4, 1776
@@ -457,7 +463,8 @@ Name one war fought by the United States in the 1900s.*
 * If you are 65 years old or older and have been a legal permanent resident of the United States for 20 or more years, you
 may study just the questions that have been marked with an asterisk.
 -8-
-www.uscis.gov81. Who did the United States fight in World War II?
+www.uscis.gov
+81. Who did the United States fight in World War II?
 		 ▪ Japan, Germany, and Italy
 82.		 Before he was President, Eisenhower was a general. What war was he in?
 		 ▪ World War II
@@ -603,3 +610,4 @@ Name two national U.S. holidays.
 ▪ Veterans Day
 ▪ Thanksgiving
 ▪ Christmas
+
