@@ -39,5 +39,4 @@ def start_attempt(qlist: list):
     print(f'Elapsed time: {elapsed/60} minutes')
     return elapsed
 
-start_attempt(questions)
 
