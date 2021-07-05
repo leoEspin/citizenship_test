@@ -140,7 +140,8 @@
     {
       "question": "Who is one of your state\u2019s U.S. Senators now?*",
       "answers": [
-        "\u0007 Answers will vary. [District of Columbia residents and residents of U.S. territories should answer that D.C."
+        "Chuck Schumer",
+        "Kirsten Gillibrand"
       ]
     },
     {
@@ -158,7 +159,33 @@
     {
       "question": "Name your U.S. Representative.",
       "answers": [
-        "\u0007 Answers will vary. [Residents of territories with nonvoting Delegates or Resident Commissioners may"
+        "Lee Zeldin (R)",
+        "Andrew Garbarino (R)",
+        "Thomas Suozzi (D)",
+        "Kathleen Rice (D)",
+        "Gregory Meeks (D)",
+        "Grace Meng (D)",
+        "Nydia Velázquez (D)",
+        "Hakeem Jeffries (D)",
+        "Yvette Clarke (D)",
+        "Jerry Nadler (D)",
+        "Nicole Malliotakis (R)",
+        "Carolyn Maloney (D)",
+        "Adriano Espaillat (D)",
+        "Alexandria Ocasio-Cortez (D)",
+        "Ritchie Torres (D)",
+        "Jamaal Bowman (D)",
+        "Mondaire Jones (D)",
+        "Sean Patrick Maloney (D)",
+        "Antonio Delgado (D)",
+        "Paul Tonko (D)",
+        "Elise Stefanik (R)",
+        "Claudia Tenney (R)",
+        "Tom Reed (R)",
+        "John Katko (R)",
+        "Joseph Morelle (D)",
+        "Brian Higgins (D)",
+        "Chris Jacobs (R)"
       ]
     },
     {
@@ -190,13 +217,13 @@
     {
       "question": "What is the name of the President of the United States now?*",
       "answers": [
-        "Visit uscis.gov/citizenship/testupdates for the name of the President of the United States."
+        "Joe Biden"
       ]
     },
     {
       "question": "What is the name of the Vice President of the United States now?",
       "answers": [
-        "Visit uscis.gov/citizenship/testupdates for the name of the Vice President of the United States."
+        "Kamala Harris"
       ]
     },
     {
@@ -274,13 +301,13 @@
     {
       "question": "How many justices are on the Supreme Court?",
       "answers": [
-        "Visit uscis.gov/citizenship/testupdates for the number of justices on the Supreme Court."
+        "Nine (9)"
       ]
     },
     {
       "question": "Who is the Chief Justice of the United States now?",
       "answers": [
-        "Visit uscis.gov/citizenship/testupdates for the name of the Chief Justice of the United States."
+        "John Roberts"
       ]
     },
     {
@@ -323,13 +350,13 @@
     {
       "question": "What is the political party of the President now?",
       "answers": [
-        "Visit uscis.gov/citizenship/testupdates for the political party of the President."
+        "Democratic"
       ]
     },
     {
       "question": "What is the name of the Speaker of the House of Representatives now?",
       "answers": [
-        "Visit uscis.gov/citizenship/testupdates for the name of the Speaker of the House of Representatives."
+        "Nancy Pelosi"
       ]
     },
     {
