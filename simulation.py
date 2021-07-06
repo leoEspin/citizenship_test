@@ -16,7 +16,7 @@ class bcolors:
     
 with open('question_bank.json', 'r') as q:
     qbank = json.load(q)
-#assert len(qbank['Questions']) == 100, 'There\'s missing questions'
+assert len(qbank['Questions']) == 100, 'There\'s missing questions'
 
 questions = qbank['Questions']
 
