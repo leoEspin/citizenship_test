@@ -332,13 +332,13 @@
     {
       "question": "Who is the Governor of your state now?",
       "answers": [
-        "\u0007 Answers will vary. [District of Columbia residents should answer that D.C. does not have a Governor.]"
+        "Andrew Cuomo"
       ]
     },
     {
       "question": "What is the capital of your state?*",
       "answers": [
-        "\u0007 Answers will vary. [District of Columbia residents should answer that D.C. is not a state and does not have a"
+        "Albany"
       ]
     },
     {
