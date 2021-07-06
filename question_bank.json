@@ -792,9 +792,9 @@
     {
       "question": "Name two national U.S. holidays.",
       "answers": [
-        "New Year’s Day",
+        "New Year\u2019s Day",
         "Martin Luther King, Jr. Day",
-        "Presidents’ Day",
+        "Presidents\u2019 Day",
         "Memorial Day",
         "Independence Day",
         "Labor Day",
