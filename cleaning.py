@@ -17,7 +17,8 @@ def make_json(rawtext: list):
             current_q["question"] = check_question.groups()[1].strip()
         elif '▪' in line:
             current_q["answers"].append(re.sub('^[\s▪]+', '', line).strip())
-
+    qbank.append(current_q)
+    
     return  {"Questions": qbank}
 
 with open('question_bank.txt') as raw:
