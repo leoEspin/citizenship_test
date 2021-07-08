@@ -14,12 +14,23 @@ def make_json(rawtext: list):
             if len(current_q['answers']) > 0:
                 qbank.append(current_q)
                 current_q = copy.deepcopy(q_template) 
-            current_q["question"] = check_question.groups()[1].strip()
+            current_q["question"] = check_question.groups()[1].strip().lower()
         elif '▪' in line:
-            current_q["answers"].append(re.sub('^[\s▪]+', '', line).strip())
+            current_q["answers"].append(re.sub('^[\s▪]+', '', line).strip().lower())
     qbank.append(current_q)
     
     return  {"Questions": qbank}
+
+def json_to_lower(original: dict)-> dict:
+    '''
+    Used to lower original json, to avoid loosing extra added info.
+    besides, lovely nested comprehension.
+    '''
+    
+    questions = original['Questions']
+    lquestions = [{'question':q['question'].lower(),
+              'answers':[x.lower() for x in q['answers']]} for q in questions]
+    return {'Questions': lquestions}
 
 with open('question_bank.txt') as raw:
     rawtext = raw.readlines()
