@@ -29,7 +29,7 @@ def json_to_lower(original: dict)-> dict:
     
     questions = original['Questions']
     lquestions = [{'question':q['question'].lower(),
-              'answers':[x.lower() for x in q['answers']]} for q in questions]
+                   'answers':[x.lower() for x in q['answers']]} for q in questions]
     return {'Questions': lquestions}
 
 with open('question_bank.txt') as raw:

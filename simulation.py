@@ -40,3 +40,6 @@ def start_attempt(qlist: list):
     return elapsed
 
 
+if __name__ == '__main__':
+    start_attempt(questions)
+    
